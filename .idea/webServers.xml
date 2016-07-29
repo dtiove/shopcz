@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="e46c9faf-8626-4c6c-93e0-a7d49c30ee23" name="shopcz" url="http://192.168.11.147">
+        <fileTransfer host="192.168.11.147" port="22" privateKey="C:\Users\chengjunsheng\.ssh\id_rsa_2048" accessType="SFTP" username="ubuntu" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
